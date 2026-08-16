@@ -15,7 +15,8 @@
       PhD, Biological Sciences
     </td>
     <td style="vertical-align:top; border:none; padding: 5px 10px; color:#555;">
-      University of Tasmania, Australia
+      University of Tasmania, Australia <br>
+      <small>Project: Molecular mechanism of stomatal opening in diverse plants </small>
     </td>
   </tr>
 
@@ -31,7 +32,8 @@
     </td>
     <!-- Column 3: University -->
     <td style="vertical-align:top; border:none; padding: 5px 10px; color:#555;">
-      Pakistan Institute of Engineering and Applied Sciences, Islamabad
+      Pakistan Institute of Engineering and Applied Sciences, Islamabad <br>
+      <small>Project: CRISPR-Cas9 mediated viral resistance in plants </small>
     </td>
   </tr>
 
@@ -82,8 +84,8 @@
       Research Associate
     </td>
     <td style="vertical-align:top; border:none; padding: 15px 10px 5px 10px; color:#555;">
-      <strong>NIBGE, PIEAS, Faisalabad</strong><br>
-      <small><em>Project:</em> Risk assessment and biosafety analysis of transgenic sugarcane lines (feeding trials on rabbits/mice; protein allergenicity testing via purified DREB1A and AtNHX1A).</small>
+      NIBGE, PIEAS, Faisalabad <br>
+      <small>Project: Risk assessment and biosafety analysis of transgenic sugarcane lines (feeding trials on rabbits/mice; protein allergenicity testing via purified DREB1A and AtNHX1A).</small>
     </td>
   </tr>
 </table>
