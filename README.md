@@ -89,3 +89,44 @@
     </td>
   </tr>
 </table>
+
+### Skills and Expertise
+
+#### Wet Lab
+* **High throughput sequencing:** Library preparation and running Nanopore sequencing 
+* **Genome Editing and cloning:** CRISPR/Cas-based genome editing, Gene cloning and construct development.
+* **Molecular Assays:** PCR, qRT-PCR, gel electrophoresis, SDS-PAGE, Southern hybridization, protein extraction and purification.
+* **Plant Biology:** Protoplast isolation, Tissue culture, Agro-infiltration, Plant physiology.
+
+#### Bioinformatics Skills & Tools
+* **Genome Assembly:** Canu, Flye, SPAdes, Velvet assembler, SOAPdenovo, Unicycler.
+* **Mapping & Alignment:** Bowtie/Bowtie2, BWA, STAR, MUMmer, Minigraph, Sniffles, SAMtools, BAMtools, Picard tools, GATK, MUSCLE/MAFFT/PRANK, BLAST.
+* **Annotation:** Maker, Braker, RepeatModeler, RepeatMasker, EDTA, Prokka, KAAS, EggNOG mapper, AntiSMASH, BAGEL4.
+* **Phylogenetics:** IQ-TREE, RAxML, MEGA, FastTree, ANI, ITOL, Gubbins, ggtree.
+* **Transcriptomics (RNA-Seq):** Salmon, STAR/HISAT2, tximport, DESeq2, EdgeR, Cufflinks, clusterProfiler, WGCNA.
+* **Pangenomics & Metagenomics:** OrthoFinder, Minigraph-Cactus, vg-tools, Anvi’o, MEGAHIT, metaSPAdes.
+* **Exome Sequencing & Analytics:** ANNOVAR, SnpEff/SnpSift, GATK, Roary, Panaroo, Ppanggolin, IslandViewer, PHAST, Circos, DNAPlotter, HGTector, Gephi.
+
+#### Data Science & Programming
+* **Languages:** R (Advanced), LINUX Command Line (Advanced), Python (Intermediate).
+* **Machine Learning:** Supervised (Regression, Classification, Tree-Based Models, SVM, Naïve Bayes), Unsupervised (K-means, Hierarchical Clustering).
+* **Statistics:** Hypothesis Testing (T-Test, Chi-Square, ANOVA), Dimensionality Reduction (PCA, tSNE), Feature Engineering.
+
+### Selected Publications
+
+* **Bukhari, S. A. R.**, & Saeed, M. (2025). Virome and Vectorome Analyses of Vectors: New Approaches for Evolutionary Studies of Plant Viruses. *New and Emerging Plant Viruses*, 227-243. Apple Academic Press.
+* Zulfiqar, S., Rahman, M., **Bukhari, S. A. R.**, et al. (2024). Genotyping by sequencing for identification and mapping of induced mutation in wheat mutant lines. *Functional & Integrative Genomics*, 24(6), 1-19.
+* Zulfiqar, S., Ishfaq, S., **Bukhari, S. A. R.**, et al. (2024). New genetic resources for aphid resistance identified from a wheat mutant library. *Heliyon*.
+* Awan, M. J. A., Farooq, M. A., Naqvi, R. Z., ..., **Bukhari, S. A. R.**, et al. (2024). Deciphering Differential Expression Patterns of Yield-Related Negative Regulators in Hexaploid Wheat. *Molecular Biology Reports* (Accepted).
+* Hayat, M., Sarfaraz, M., Mohsin, M., & **Bukhari, S. A. R.** (2024). Carbonic anhydrase hybrid nanoflowers: From facile synthesis to therapeutic prospects. *European Polymer Journal*, 112930.
+* **Bukhari, S. A. R.**, Irfan, M., Ahmad, I., & Chen, L. (2022). Comparative Genomics and Pan-Genome Driven Prediction of a Reduced Genome of *Akkermansia Muciniphila*. *Microorganisms*, 10(7).
+* **Bukhari, S. A. R.**, Saeed, M., & Briddon, R. W. (2021). Use of CRISPR/Cas System to Create Resistance to Cotton Diseases. *Cotton Precision Breeding*, 329–350. Springer.
+* **Bukhari, S. A. R.**, Raza, A., & Shahid, M. S. (2020). Molecular Tools for Engineering Resistance in Hosts against Plant Viruses. *Applied Plant Virology*, 637–647. Elsevier.
+* Jahejo, A. R., **Bukhari, S. A. R.**, et al. (2022). Transcriptome-Based Biomarker Gene Screening in Chicken Erythrocytes of Tibial Dyschondroplasia. *BMC Genomics*, 23(1), 323.
+* Jahejo, A. R., **Bukhari, S. A. R.**, et al. (2020). Integration of Gene Expression Profile Data to Screen Immune-Related Genes Involvement in Marek’s Disease Virus. *Microbial Pathogenesis*, 148, 104454.
+* *Note: Additional co-authored publications on Cerium Oxide, ZVI, BSA, and Hyaluronic Acid Nano-fibers published in Frontiers in Chemistry and CPB (2022-2023).*
+
+### Honors & Academic Service
+* **Awards:** Academic Merit Scholarship recipient (BSc Hons), Highest CGPA Distinction (BSc), Merit Certificate (MPhil), Gold Medal for Co-Curricular Excellence.
+* **Invited Talks:** Resource Person for International Academic Workshops and Courses.
+Use code with caution.What was updated for cleanliness and clarity:Your Name Bolded: In the publications list, your name is automatically bolded (**Bukhari, S. A. R.**) so visitors can immediately see your authorship position.Condensed Bio-IT list: Consolidated dozens of single line-item software tools into neat categories (e.g., "Annotation", "Phylogenetics") to maximize page scannability.Uniform Date Margins: Set explicit layouts for the professional timelines so the text stays inline with your education section block above it.Would you like me to add a hyperlink to your Google Scholar profile or an email contact button right beneath your main page header?
