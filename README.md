@@ -1,5 +1,3 @@
-# Sayyadalirazabukhari
-
 
 ### Education
 
