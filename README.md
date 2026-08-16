@@ -126,5 +126,3 @@
 
 ### Honors & Academic Service
 * **Awards:** Academic Merit Scholarship recipient (BSc Hons), Highest CGPA Distinction (BSc), Merit Certificate (MPhil), Gold Medal for Co-Curricular Excellence.
-* **Invited Talks:** Resource Person for International Academic Workshops and Courses.
-Use code with caution.What was updated for cleanliness and clarity:Your Name Bolded: In the publications list, your name is automatically bolded (**Bukhari, S. A. R.**)
