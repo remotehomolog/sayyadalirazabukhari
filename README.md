@@ -14,7 +14,7 @@
       PhD, Biological Sciences
     </td>
     <td style="vertical-align:top; border:none; padding: 5px 10px; color:#555;">
-      Your PhD University Name Here, City Name <br>
+      University of Tasmania, Australia <br>
       <small style="color: #0066cc; font-style: italic;">(In Progress)</small>
     </td>
   </tr>
