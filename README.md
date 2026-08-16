@@ -4,6 +4,22 @@
 ### Education
 
 <table style="width:100%; border:none; border-collapse:collapse; background:transparent;">
+
+    <!-- Row 1: PhD (Ongoing) -->
+  <tr style="background:transparent; border:none;">
+    <td style="width:90px; white-space:nowrap; vertical-align:top; border:none; padding: 5px 0; color:#666;">
+      2024–Present
+    </td>
+    <td style="width:180px; white-space:nowrap; vertical-align:top; border:none; padding: 5px 10px;">
+      PhD, Biological Sciences
+    </td>
+    <td style="vertical-align:top; border:none; padding: 5px 10px; color:#555;">
+      Your PhD University Name Here, City Name <br>
+      <small style="color: #0066cc; font-style: italic;">(In Progress)</small>
+    </td>
+  </tr>
+
+  <!-- Row 2: MPhil Degree -->
   <tr style="background:transparent; border:none;">
     <!-- Column 1: Years -->
     <td style="width:90px; white-space:nowrap; vertical-align:top; border:none; padding: 5px 0; color:#666;">
