@@ -28,7 +28,7 @@
       B. Sc. (Hons), Agricultural Sciences
     </td>
     <td style="vertical-align:top; border:none; padding: 12px 10px 5px 10px; color:#555;">
-      Your University Name Here, City Name
+      University of Agriculture, Faisalabad
     </td>
   </tr>
 </table>
