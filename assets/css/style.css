@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Gives your degree text enough room so it does not wrap */
+ul li {
+  display: grid;
+  grid-template-columns: minmax(160px, max-content) 1fr;
+  align-items: start;
+  gap: 20px;
+}
