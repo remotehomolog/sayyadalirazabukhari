@@ -5,7 +5,8 @@
 
 <table style="width:100%; border:none; border-collapse:collapse; background:transparent;">
 
-    <!-- Row 1: PhD (Ongoing) -->
+    <!-- Row 1: PhD (Ongoing) <br>
+      <small style="color:#777;">Full-time Permanent</small> -->
   <tr style="background:transparent; border:none;">
     <td style="width:90px; white-space:nowrap; vertical-align:top; border:none; padding: 5px 0; color:#666;">
       2024–Present
@@ -56,12 +57,10 @@
       2021–Present
     </td>
     <td style="width:180px; vertical-align:top; border:none; padding: 5px 10px;">
-      <strong>Lecturer</strong><br>
-      <small style="color:#777;">Full-time Permanent</small>
+      Lecturer
     </td>
     <td style="vertical-align:top; border:none; padding: 5px 10px; color:#555;">
-      <strong>University of Sargodha, Pakistan</strong><br>
-      <small><em>Courses:</em> Genomics and Proteomics, Microbiology, Cell and Tissue Culture</small>
+      University of Sargodha, Pakistan
     </td>
   </tr>
   <tr style="background:transparent; border:none;">
@@ -69,13 +68,10 @@
       2017–2021
     </td>
     <td style="width:180px; vertical-align:top; border:none; padding: 15px 10px 5px 10px;">
-      <strong>Lecturer</strong><br>
-      <small style="color:#777;">Full-time Permanent</small>
+      Lecturer
     </td>
     <td style="vertical-align:top; border:none; padding: 15px 10px 5px 10px; color:#555;">
-      <strong>University of Management and Technology, Sialkot</strong><br>
-      <small><em>Courses:</em> Biochemistry I & II, Bioinformatics, Cell Biology, Agricultural Biotechnology, Biostatistics I</small><br>
-      <small><em>Research:</em> Pan-genomics and functional characterization of various microbes.</small>
+      University of Management and Technology, Sialkot
     </td>
   </tr>
   <tr style="background:transparent; border:none;">
@@ -83,8 +79,7 @@
       2016–2017
     </td>
     <td style="width:180px; vertical-align:top; border:none; padding: 15px 10px 5px 10px;">
-      <strong>Research Associate</strong><br>
-      <small style="color:#777;">Full-time Temporary</small>
+      Research Associate
     </td>
     <td style="vertical-align:top; border:none; padding: 15px 10px 5px 10px; color:#555;">
       <strong>NIBGE, PIEAS, Faisalabad</strong><br>
