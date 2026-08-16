@@ -121,6 +121,3 @@
 * **Bukhari, S. A. R.**, Raza, A., & Shahid, M. S. (2020). Molecular Tools for Engineering Resistance in Hosts against Plant Viruses. *Applied Plant Virology*, 637–647. Elsevier.
 * Jahejo, A. R., **Bukhari, S. A. R.**, et al. (2022). Transcriptome-Based Biomarker Gene Screening in Chicken Erythrocytes of Tibial Dyschondroplasia. *BMC Genomics*, 23(1), 323.
 * Jahejo, A. R., **Bukhari, S. A. R.**, et al. (2020). Integration of Gene Expression Profile Data to Screen Immune-Related Genes Involvement in Marek’s Disease Virus. *Microbial Pathogenesis*, 148, 104454.
-
-### Honors & Academic Service
-* **Awards:** Academic Merit Scholarship recipient (BSc Hons), Highest CGPA Distinction (BSc), Merit Certificate (MPhil), Gold Medal for Co-Curricular Excellence.
